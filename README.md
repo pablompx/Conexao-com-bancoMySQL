@@ -1,4 +1,4 @@
-# Conexão com Banco MySQL
+#Conexão com Banco MySQL
 
 Este é um projeto em Node.js desenvolvido para estabelecer e gerenciar a conexão com um banco de dados MySQL, estruturado de forma simples e eficiente.
 
